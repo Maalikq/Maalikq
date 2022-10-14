@@ -18,9 +18,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/afzal_maalik" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter-circled--v4.png" alt="afzal_maalik" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/afzalqureshi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/afzalqureshi/" height="30" width="40" /></a>
-<a href="https://codesandbox.com/https://codesandbox.io/u/afzal23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="https://codesandbox.io/u/afzal23" height="30" width="40" /></a>
-<a href="https://instagram.com/afzal.2323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="afzal.2323" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/afzalqureshi/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/afzalqureshi/" height="30" width="40" /></a>
+<a href="https://codesandbox.com/https://codesandbox.io/u/afzal23" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/2x/external-codesandbox-an-online-code-editor-and-sharing-web-application-projects-logo-color-tal-revivo.png" alt="https://codesandbox.io/u/afzal23" height="30" width="40" /></a>
+<a href="https://instagram.com/afzal.2323" target="blank"><img align="center" src="https://img.icons8.com/3d-fluency/2x/instagram-new.png" alt="afzal.2323" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCBXNOdvhfEykwhoIYDOTRpg" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/1384/1384060.png" alt="https://www.youtube.com/channel/UCBXNOdvhfEykwhoIYDOTRpg" height="30" width="40" /></a>
 </p>
 
