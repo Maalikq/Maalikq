@@ -6,6 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maalikq&label=Profile%20views&color=0e75b6&style=flat" alt="maalikq" /> </p>
 
 <p align="left"> <a href="https://twitter.com/afzal_maalik" target="blank"><img src="https://img.shields.io/twitter/follow/afzal_maalik?logo=twitter&style=for-the-badge" alt="afzal_maalik" /></a> </p>
+<p align="left"> <a href="https://twitter.com/afzal_maalik" target="blank"><img src="https://img.shields.io/twitter/follow/afzal_maalik?logo=twitter&style=for-the-badge" alt="afzal_maalik" /></a> </p>
 
 - 🔭 I’m currently working on clone **Stackover.com**
 
