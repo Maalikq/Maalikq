@@ -46,7 +46,7 @@
 </p>
 <br/>
 <hr />
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me 👋 :-</h3>
 <p align="left">
 <a href="https://twitter.com/afzal_maalik" target="blank"><img align="center" src="https://img.icons8.com/color/2x/twitter-circled--v4.png" alt="afzal_maalik" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/afzalqureshi/" target="blank"><img align="center" src="https://img.icons8.com/color/2x/linkedin-circled.png" alt="https://www.linkedin.com/in/afzalqureshi/" height="30" width="40" /></a>
